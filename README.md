@@ -1,2 +1,2 @@
 # Compilado de projetos
-Este projeto tem o intuito de criar um portfolio utilizando react com typescript para aprimoramento de dominio das ferramentas, bem como servir como um futuro portfólio para projetos pessoais
+Este repositório tem o intuito de criação de projetos para reforço de conceitos de ferramentas, sendo eles exclusivamente com fins educativos
