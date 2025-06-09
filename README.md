@@ -1,2 +1,5 @@
-# Compilado de projetos
-Este repositório tem o intuito de criação de projetos para reforço de conceitos de ferramentas, sendo eles exclusivamente com fins educativos
+# Clarinhas Recrocheitâs
+
+*A site with crochet patterns.*
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://shields.io/)
